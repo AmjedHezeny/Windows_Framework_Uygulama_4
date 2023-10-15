@@ -1,0 +1,11 @@
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\bin\Debug\windows_framework_Ödev_1.exe.config
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\bin\Debug\windows_framework_Ödev_1.exe
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\bin\Debug\windows_framework_Ödev_1.pdb
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\obj\Debug\windows_framework_Ödev_1.csproj.AssemblyReference.cache
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\obj\Debug\windows_framework_Ödev_1.windows_framework_Ödev_1.resources
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\obj\Debug\windows_framework_Ödev_1.List_Box_Ödevi.resources
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\obj\Debug\windows_framework_Ödev_1.Properties.Resources.resources
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\obj\Debug\windows_framework_Ödev_1.csproj.GenerateResource.cache
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\obj\Debug\windows_framework_Ödev_1.csproj.CoreCompileInputs.cache
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\obj\Debug\windows_framework_Ödev_1.exe
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_1\windows_framework_Ödev_1\obj\Debug\windows_framework_Ödev_1.pdb
